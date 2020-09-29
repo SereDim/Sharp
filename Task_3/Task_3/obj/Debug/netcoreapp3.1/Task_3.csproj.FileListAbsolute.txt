@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\Sharp\Task_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.exe
+C:\Users\pc\Desktop\Sharp\Task_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.deps.json
+C:\Users\pc\Desktop\Sharp\Task_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.runtimeconfig.json
+C:\Users\pc\Desktop\Sharp\Task_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Sharp\Task_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.dll
+C:\Users\pc\Desktop\Sharp\Task_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.pdb
+C:\Users\pc\Desktop\Sharp\Task_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Sharp\Task_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.AssemblyInfo.cs
+C:\Users\pc\Desktop\Sharp\Task_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Sharp\Task_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.dll
+C:\Users\pc\Desktop\Sharp\Task_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.pdb
+C:\Users\pc\Desktop\Sharp\Task_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.genruntimeconfig.cache

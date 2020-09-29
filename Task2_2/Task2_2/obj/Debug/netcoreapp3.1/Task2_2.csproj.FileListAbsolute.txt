@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\Sharp\Task2_2\Task2_2\bin\Debug\netcoreapp3.1\Task2_2.exe
+C:\Users\pc\Desktop\Sharp\Task2_2\Task2_2\bin\Debug\netcoreapp3.1\Task2_2.deps.json
+C:\Users\pc\Desktop\Sharp\Task2_2\Task2_2\bin\Debug\netcoreapp3.1\Task2_2.runtimeconfig.json
+C:\Users\pc\Desktop\Sharp\Task2_2\Task2_2\bin\Debug\netcoreapp3.1\Task2_2.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Sharp\Task2_2\Task2_2\bin\Debug\netcoreapp3.1\Task2_2.dll
+C:\Users\pc\Desktop\Sharp\Task2_2\Task2_2\bin\Debug\netcoreapp3.1\Task2_2.pdb
+C:\Users\pc\Desktop\Sharp\Task2_2\Task2_2\obj\Debug\netcoreapp3.1\Task2_2.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Sharp\Task2_2\Task2_2\obj\Debug\netcoreapp3.1\Task2_2.AssemblyInfo.cs
+C:\Users\pc\Desktop\Sharp\Task2_2\Task2_2\obj\Debug\netcoreapp3.1\Task2_2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Sharp\Task2_2\Task2_2\obj\Debug\netcoreapp3.1\Task2_2.dll
+C:\Users\pc\Desktop\Sharp\Task2_2\Task2_2\obj\Debug\netcoreapp3.1\Task2_2.pdb
+C:\Users\pc\Desktop\Sharp\Task2_2\Task2_2\obj\Debug\netcoreapp3.1\Task2_2.genruntimeconfig.cache
